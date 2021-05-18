@@ -32,6 +32,12 @@
       "keywords": [
         "Programming"
       ]
+    },
+    {
+      "name": "Graphical Design",
+      "keywords": [
+        "User Interface"
+      ]
     }
   ],
   "skills": [
@@ -39,10 +45,10 @@
       "name": "Languages",
       "level": "",
       "keywords": [
+        "Java",
+        "JavaScript",
         "C",
         "C++",
-        "Java",
-        "Javascript",
         "Arm Assembly",
         "Python"
       ]
@@ -64,6 +70,7 @@
       "name": "Graphical Design",
       "level": "",
       "keywords": [
+        "JavaFX",
         "AutoDesk 3DS Max",
         "PhotoShop CC",
         "Unity"
