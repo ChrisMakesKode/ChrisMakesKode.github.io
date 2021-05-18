@@ -54,6 +54,16 @@
       ]
     },
     {
+      "name": "Graphical Design",
+      "level": "",
+      "keywords": [
+        "JavaFX",
+        "AutoDesk 3DS Max",
+        "PhotoShop CC",
+        "Unity"
+      ]
+    },
+    {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
@@ -64,16 +74,6 @@
         "TI LaunchPad",
         "NetBeans",
         "MatLab"
-      ]
-    },
-    {
-      "name": "Graphical Design",
-      "level": "",
-      "keywords": [
-        "JavaFX",
-        "AutoDesk 3DS Max",
-        "PhotoShop CC",
-        "Unity"
       ]
     }
   ],
