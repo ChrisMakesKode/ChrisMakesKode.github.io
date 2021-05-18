@@ -1,10 +1,9 @@
 {
   "basics": {
     "name": "Christian Kamarga",
-    "label": "Student",
+    "label": "Freelance Programmer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
     "email": "christian.kamarga@mavs.uta.edu",
-    "phone": "808-333-4444",
     "website": "https://chrismakeskode.github.io",
     "summary": "I am aiming to obtain a M.S. in Information Systems towards Cyber Security.",
     "location": {
@@ -29,41 +28,30 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Cyber Security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "Programming"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "ARM Assembly",
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
         "g++",
@@ -73,11 +61,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Texas at Arlington, Arlington, TX",
+      "area": "University Studies",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2015-08-27",
+      "endDate": "2020-12-19",
       "gpa": "",
       "courses": [
       ]
