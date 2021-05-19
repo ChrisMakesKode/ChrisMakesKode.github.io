@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Caesar_cipher.png
 title: Caesar Cipher Password
-permalink: projects/vacay
+permalink: projects/caesar-cipher-password
 # All dates must be YYYY-MM-DD format!
 # Sentence: Bob joined this [club](URL to the club's site).
 date: 2021-03-15
