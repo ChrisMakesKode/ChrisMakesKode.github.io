@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/caesarCipherPassword_interface.png
+image: images/Caesar_cipher.png
 title: Caesar Cipher Password
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
