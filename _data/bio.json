@@ -89,19 +89,6 @@
       ]
     }
   ],
-  "work": [
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
     {
       "company": "",
       "position": "",
@@ -139,20 +126,6 @@
         "Guided class to follow martial arts curriculum",
         "Trained students in technique and form for promotion exams"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
