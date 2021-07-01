@@ -26,6 +26,18 @@
       }
     ]
   },
+   "education": [
+    {
+      "institution": "University of Texas at Arlington, Arlington, TX",
+      "area": "University Studies",
+      "studyType": "B.S.",
+      "startDate": "2015-08-27",
+      "endDate": "2020-12-19",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
   "interests": [
     {
       "name": "Cybersecurity",
@@ -74,18 +86,6 @@
         "TI LaunchPad",
         "NetBeans",
         "MatLab"
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Texas at Arlington, Arlington, TX",
-      "area": "University Studies",
-      "studyType": "B.S.",
-      "startDate": "2015-08-27",
-      "endDate": "2020-12-19",
-      "gpa": "",
-      "courses": [
       ]
     }
   ],
