@@ -12,7 +12,7 @@ labels:
   - JavaFX
   - ui
   - GitHub
-summary: An application with a user interface that encrypts input statements.
+summary: One of my personal projects. This is an interactive application that offers various encryption methods for input statements.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/caesarCipherPassword_interface.png">
