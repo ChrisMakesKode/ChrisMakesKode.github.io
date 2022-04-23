@@ -117,6 +117,22 @@
       ]
     }
   ],
+  "work": [
+    {
+      "organization": "University of Texas at Arlington",
+      "website": "",
+      "position": "Graduate Teaching Assistant (GTA)",
+      "startDate": "2022-01-16",
+      "endDate": "Present",
+      "summary": "Department of Information Systems & Operations Management",
+      "highlights": [
+        "Coordinated responsibilities with professors for class procedures.",
+        "Advised students in improving performance for database concepts and projects",
+        "Provided basic technical support for Oracle and SQL database activities.",
+        "Managed distribution and proctoring of exams.",
+      ]
+    }
+  ],
   "volunteer": [
     {
       "organization": "Kalpana Chawla (KC) Hall Council",
