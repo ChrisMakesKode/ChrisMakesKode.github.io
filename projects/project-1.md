@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/Caesar_cipher.png
-title: Universal Furniture Outlet
-permalink: projects/universal-furniture-outlet
+image: images/ERD_sample.png
+title: Online Furniture Ordering
+permalink: projects/online-furniture-ordering
 # All dates must be YYYY-MM-DD format!
 # Sentence: Bob joined this [club](URL to the club's site).
 date: 2021-12-08
@@ -12,7 +12,7 @@ labels:
 summary: The semester end group project for my Database class. The task is to understand the database logic for a furniture store processing and shipping orders to customers.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/caesarCipherPassword_interface.png">
+<img class="ui medium right floated rounded image" src="../images/DD_Sample.png">
 <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
   In my first semester as a Grad student, everyone was assigned in groups of four to five to complete this project. We were provided a context prompt that involves a furniture store. The business would retain a database containing information on customers, products sold, shipping, employees, and delivery trucks. Before we could write any SQL Query, we were tasked to display our understanding of the logical workflows in the business process through various diagrams. This includes Entity Relationship Diagrams (ERD) and a Data Dictionary.</span>
 
