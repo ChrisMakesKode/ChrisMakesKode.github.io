@@ -21,6 +21,7 @@ summary: The semester end group project for my Database class. The task is to un
 <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
   I worked with everyone to discern which nouns from the provided prompt should be considered as Entities. This would identify what would be stored as tables and their corresponding attributes or traits for documentation purposes.</span>
 
+<img class="ui medium right floated rounded image" src="../images/ERD_sample.png">
 <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
   From this project, I was given the opportunity to develop my management skills and coordinate with others to deliver the project ontime. In addition, I was able to employ the knowledge of writing SQL Query that I studied in-class throughout the semester to develop the Tables and their columns, insert the row data, and configure constraints that would help maintain consistency across our database.</span>
 
