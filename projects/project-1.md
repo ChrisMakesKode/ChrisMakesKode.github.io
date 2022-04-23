@@ -3,10 +3,10 @@ layout: project
 type: project
 image: images/Caesar_cipher.png
 title: Universal Furniture Outlet
-permalink: projects/caesar-cipher-password
+permalink: projects/universal-furniture-outlet
 # All dates must be YYYY-MM-DD format!
 # Sentence: Bob joined this [club](URL to the club's site).
-date: 2021-03-15
+date: 2021-12-08
 labels:
   - SQL
 summary: The semester end group project for my Database class. The task is to understand the database logic for a furniture store processing and shipping orders to customers.
