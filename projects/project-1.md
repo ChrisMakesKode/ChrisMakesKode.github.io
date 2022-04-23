@@ -9,6 +9,8 @@ permalink: projects/online-furniture-ordering
 date: 2021-12-08
 labels:
   - SQL
+  - Database
+  - ERD
 summary: The semester end group project for my Database class. The task is to understand the database logic for a furniture store processing and shipping orders to customers.
 ---
 
