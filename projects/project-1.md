@@ -2,26 +2,23 @@
 layout: project
 type: project
 image: images/Caesar_cipher.png
-title: Caesar Cipher Password
+title: Universal Furniture Outlet
 permalink: projects/caesar-cipher-password
 # All dates must be YYYY-MM-DD format!
 # Sentence: Bob joined this [club](URL to the club's site).
 date: 2021-03-15
 labels:
-  - Java
-  - JavaFX
-  - ui
-  - GitHub
-summary: One of my personal projects. This is an interactive application that offers various encryption methods for input statements.
+  - SQL
+summary: The semester end group project for my Database class. The task is to understand the database logic for a furniture store processing and shipping orders to customers.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/caesarCipherPassword_interface.png">
 <span style="color: black; text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;">
-This was one of my first at-home projects after completing my undergrad. A Caesar Cipher is a simple security tool that is used to protect password and sensitive information. It encrypts the input contents by encrypting, or changing its values by a set amount based on UNICODE.
+  In my first semester as a Grad student, everyone was assigned in groups of four to five to complete this project. We were provided a context prompt that involves a furniture store. The business would retain a database containing information on customers, products sold, shipping, employees, and delivery trucks. Before we could write any SQL Query, we were tasked to display our understanding of the logical workflows in the business process through various diagrams. This includes Entity Relationship Diagrams (ERD) and a Data Dictionary.
 
-In this project, I incorporated my knowledge of JavaFX to provide an interface for efficient usage. In addition, I have created several encryption options that encodes input containing uppercase and lowercase characters differently.
+  I worked with everyone to discern which nouns from the provided prompt should be considered as Entities. This would identify what would be stored as tables and their corresponding attributes or traits for documentation purposes.
 
-I learned JavaFX for a few projects in INSY-4305 during Fall 2020. Through these assignments, I learned how to design an interface that responds conveniently to user's and how to implement it with my written programs in Java. 
+  From this project, I was given the opportunity to develop my management skills and coordinate with others to deliver the project ontime. In addition, I was able to employ the knowledge of writing SQL Query that I studied in-class throughout the semester to develop the Tables and their columns, insert the row data, and configure constraints that would help maintain consistency across our database.  
  
 Source: <a href="https://github.com/"><i class="large github icon"></i>ChrisMakesKode</a>
 </span>
