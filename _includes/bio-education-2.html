@@ -9,9 +9,16 @@
   <div class="twelve wide column no-bottom">
     <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
     <p class="ui no-bottom">{{ entry.studyType }}, {{ entry.area }}</p>
-    {% if entry.courses %}
+    {% if entry.relevant_coursework %}
       <ul style="margin: 0px;">
-        {% for course in entry.courses %}
+        {% for course in entry.relevant_coursework %}
+          <li>{{ course }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+    {% if entry.ongoing_coursework %}
+      <ul style="margin: 0px;">
+        {% for course in entry.ongoing_coursework %}
           <li>{{ course }}</li>
         {% endfor %}
       </ul>
