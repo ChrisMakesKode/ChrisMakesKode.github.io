@@ -24,4 +24,3 @@ summary: The semester end group project for my Database class. The task is to un
 
 <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
   Source: <a href="https://github.com/"><i class="large github icon"></i>ChrisMakesKode</a></span>
-</span>
