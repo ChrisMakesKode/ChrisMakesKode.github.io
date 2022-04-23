@@ -58,20 +58,6 @@
       ]
     }
   ],
-  "interests": [
-    {
-      "name": "Information Systems",
-      "keywords": [
-        "Cybersecurity Programming, Database, Data Science Analysis"
-      ]
-    },
-    {
-      "name": "Graphical Design",
-      "keywords": [
-        "User Interface"
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "Languages",
@@ -114,6 +100,20 @@
         "TI LaunchPad",
         "NetBeans",
         "MatLab"
+      ]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Information Systems",
+      "keywords": [
+        "Cybersecurity Programming, Database, Data Science Analysis"
+      ]
+    },
+    {
+      "name": "Graphical Design",
+      "keywords": [
+        "User Interface"
       ]
     }
   ],
