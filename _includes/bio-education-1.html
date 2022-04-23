@@ -13,6 +13,7 @@
     <div class="twelve wide column no-bottom">
       <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
       <p class="ui no-bottom">{{ entry.studyType }}, {{ entry.area }}</p>
+      <p class="ui no-bottom"><b>Relevant Coursework:</b></p>
       {% if entry.relevant_coursework %}
       <ul style="margin: 0px;">
         {% for course in entry.relevant_coursework %}
@@ -20,6 +21,7 @@
         {% endfor %}
       </ul>
       {% endif %}
+      <p class="ui no-bottom"><b>Ongoing Coursework:</b></p>
       {% if entry.ongoing_coursework %}
       <ul style="margin: 0px;">
         {% for course in entry.ongoing_coursework %}
