@@ -16,10 +16,10 @@ summary: The semester end group project for my Database class. The task is to un
 
 <img class="ui medium right floated rounded image" src="../images/DD_Sample.png">
 <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
-  In my first semester as a Grad student, everyone was assigned in groups of four to five to complete this project. We were provided a context prompt that involves a furniture store. The business would retain a database containing information on customers, products sold, shipping, employees, and delivery trucks. Before we could write any SQL Query, we were tasked to display our understanding of the logical workflows in the business process through various diagrams. This includes Entity Relationship Diagrams (ERD) and a Data Dictionary.</span>
+  In my first semester as a Grad student, everyone was assigned in groups of four to five to complete this project. We were provided a context prompt that involves a furniture store. The business would retain a database containing information on customers, products sold, shipping, employees, and delivery trucks. Before we could write any SQL Query, we had to understand the logical workflow in the furniture outlet's business process. We created various diagrams to document our studies. Some of them include Entity Relationship Diagrams (ERD) and Data Dictionary.</span>
 
 <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
-  I worked with everyone to discern which nouns from the provided prompt should be considered as Entities. This would identify what would be stored as tables and their corresponding attributes or traits for documentation purposes.</span>
+  I worked with everyone to discern which nouns from the provided prompt should be considered as Entities. This would identify what would be stored as tables and what their corresponding attributes or traits. Writing the SQL Queries to build the Database was one of the last parts. Our documented diagrams would facilitate group discussions on how we would proceed after finalizing our decisions.</span>
 
 <img class="ui medium right floated rounded image" src="../images/ERD_sample.png">
 <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
