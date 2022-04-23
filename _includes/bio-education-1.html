@@ -13,7 +13,7 @@
     <div class="twelve wide column no-bottom">
       <p class="ui no-bottom"><b>{{ entry.institution }}</b></p>
       <p class="ui no-bottom">{{ entry.studyType }}, {{ entry.area }}</p>
-      {% if entry.gpa %}
+      {% if entry.gpa != ''%}
         <p class="ui no-bottom"><i>Cumulative GPA: {{ entry.gpa }}</i></p>
       {% endif %}
       <p class="ui no-bottom"><b>Relevant Coursework:</b></p>
