@@ -16,11 +16,13 @@ summary: One of my personal projects. This is an interactive application that of
 ---
 
 <img class="ui medium right floated rounded image" src="../images/caesarCipherPassword_interface.png">
+<span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+  This was one of my first at-home projects after completing my undergrad. A Caesar Cipher is a simple security tool that is used to protect password and sensitive information. It encrypts the input contents by encrypting, or changing its values by a set amount based on UNICODE.</span>
 
-This was one of my first at-home projects after completing my undergrad. A Caesar Cipher is a simple security tool that is used to protect password and sensitive information. It encrypts the input contents by encrypting, or changing its values by a set amount based on UNICODE.
+<span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+  In this project, I incorporated my knowledge of JavaFX to provide an interface for efficient usage. In addition, I have created several encryption options that encodes input containing uppercase and lowercase characters differently. </span>
 
-In this project, I incorporated my knowledge of JavaFX to provide an interface for efficient usage. In addition, I have created several encryption options that encodes input containing uppercase and lowercase characters differently.
-
-I learned JavaFX for a few projects in INSY-4305 during Fall 2020. Through these assignments, I learned how to design an interface that responds conveniently to user's and how to implement it with my written programs in Java. 
+<span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+  I learned JavaFX for a few projects in INSY-4305 during Fall 2020. Through these assignments, I learned how to design an interface that responds conveniently to user's and how to implement it with my written programs in Java. </span>
  
-Source: <a href="https://github.com/"><i class="large github icon"></i>ChrisMakesKode</a>
+<span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;"> Source: <a href="https://github.com/"><i class="large github icon"></i>ChrisMakesKode</a></span>
