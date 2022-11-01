@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/ERD_sample.png
-title: Online Furniture Ordering
+title: Operations Database Furniture Store
 permalink: projects/online-furniture-ordering
 # All dates must be YYYY-MM-DD format!
 # Sentence: Bob joined this [club](URL to the club's site).
