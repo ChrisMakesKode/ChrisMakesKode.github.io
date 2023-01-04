@@ -3,7 +3,7 @@
     "name": "Christian Kamarga",
     "label": "Recent Graduate, Seeking Job Opportunities",
     "picture": "https://chrismakeskode.github.io/images/CK_GH2.jpg",
-    "email": "christian.kamarga@mavs.uta.edu",
+    "email": "christiankamarga@yahoo.com",
     "website": "https://chrismakeskode.github.io",
     "summary": "I am a recent graduate with a Master of Science in Information Systems. My goal is to make a career in cybersecurity systems development or data analytics.",
     "location": {
@@ -22,7 +22,7 @@
       {
         "network": "linkedin",
         "username": "Christian Kamarga",
-        "url": "https://www.linkedin.com/in/christian-kamarga-a58086162"
+        "url": "https://www.linkedin.com/in/christian-kamarga"
       }
     ]
   },
@@ -134,12 +134,12 @@
       "website": "",
       "position": "Graduate Teaching Assistant (GTA)",
       "startDate": "2022-01-16",
-      "endDate": "Present",
+      "endDate": "2022-05-16",
       "summary": "Department of Information Systems & Operations Management",
       "highlights": [
-        "Coordinated responsibilities with professors for class procedures.",
-        "Advised students in improving performance for database concepts and projects",
-        "Provided basic technical support for Oracle and SQL database activities.",
+        "Coordinated responsibilities with 2 professors for database classes.",
+        "Advised 60+ students weekly with database projects and technical support for Oracle and SQL.",
+        "Praised by superiors for improving efficiency with classroom procedures.",
         "Managed distribution and proctoring of exams.",
       ]
     }
