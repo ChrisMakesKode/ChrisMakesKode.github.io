@@ -23,5 +23,5 @@ summary: The semester end group project for my Database class. The task is to un
 
   <img class="ui medium right floated rounded image" src="../images/ERD_sample.png">
   <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
-    From this project, I was given the opportunity to develop my management skills and coordinate with others to deliver the project ontime. In addition, I was able to employ the knowledge of writing SQL Query that I studied in-class throughout the semester to develop the Tables and their columns, insert the row data, and configure constraints that would help maintain consistency across our database.</span>
+    From this project, I was given the opportunity to develop my management skills and coordinate with others to deliver the project ontime. In addition, I was able to employ the knowledge of writing SQL Query that I studied in-class throughout the semester to develop the Tables and their columns, insert the row data, and configure constraints that would help maintain consistency across our database.  <br /> <br /> <br /> <br /> <br /> <br /> <br /></span>
 </div>
