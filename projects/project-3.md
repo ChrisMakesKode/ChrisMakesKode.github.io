@@ -6,12 +6,12 @@ title: Google Store E-Commerce Analysis
 permalink: projects/online-furniture-ordering
 # All dates must be YYYY-MM-DD format!
 # Sentence: Bob joined this [club](URL to the club's site).
-date: 2021-12-08
+date: 2022-07-28
 labels:
-  - SQL
-  - Database
-  - ERD
-summary: The semester end group project for my Database class. The task is to understand the database logic for a furniture store processing and shipping orders to customers.
+  - Python
+  - Data Science
+  - eCommerce
+summary: Analyzed international web traffic patterns of Google’s online store. Uncovered business insight with machine learning models. Made suggestions for data-driven business decisions.
 ---
 <div style="background-color:rgba(238, 241, 255, 1); padding: 10px; border: 7px groove; border-color: lightblue; border-radius: 10px;">
   <center><figure>
