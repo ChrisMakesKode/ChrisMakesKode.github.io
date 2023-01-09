@@ -14,10 +14,10 @@ labels:
 summary: The semester end group project for my Database class. The task is to understand the database logic for a furniture store processing and shipping orders to customers.
 ---
 <div style="background-color:rgba(238, 241, 255, 1); padding: 10px; border: 7px groove; border-color: lightblue; border-radius: 10px;">
-  <figure align = "center">
+  <center><figure>
     <img class="ui medium rounded image" src="../images/DD_Sample.png" style="vertical-align: middle;" float = "none">
     <figcaption style="vertical-align: middle;">Fig. 1. Sample of Data Dictionary <br /></figcaption>
-  </figure>
+  </figure></center>
   
   <span style="color: black">
     <br />In my first semester as a Grad student, everyone was assigned in groups of four to five to complete this project. We were provided a context prompt that involves a furniture store. The business would retain a database containing information on customers, products sold, shipping, employees, and delivery trucks. Before we could write any SQL Query, we had to understand the logical workflow in the furniture outlet's business process. We created various diagrams to document our studies. Some of them include Entity Relationship Diagrams (ERD) and Data Dictionary. <br /><br /></span>
