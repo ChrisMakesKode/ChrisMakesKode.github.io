@@ -15,7 +15,7 @@ summary: The semester end group project for my Database class. The task is to un
 ---
 <div style="background-color:rgba(238, 241, 255, 1); padding: 10px; border: 7px groove; border-color: lightblue; border-radius: 10px;">
   <figure align = "center">
-    <img class="ui medium right rounded image" src="../images/DD_Sample.png" float = "none">
+    <img class="ui medium center rounded image" src="../images/DD_Sample.png" float = "none">
     <figcaption align = "center">Fig. 1. Sample of Data Dictionary <br /></figcaption>
   </figure>
   
