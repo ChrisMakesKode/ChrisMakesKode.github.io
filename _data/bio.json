@@ -31,8 +31,8 @@
       "institution": "University of Texas at Arlington, Arlington, TX",
       "area": "Master of Science in Information Systems",
       "studyType": "M.S.",
-      "startDate": "2021-08-25",
-      "endDate": "2022-12-15",
+      "startDate": "2021-Aug-25",
+      "endDate": "2022-Dec-15",
       "gpa": "4.00",
       "relevant_coursework": [
         "Applied Database Management",
@@ -49,8 +49,8 @@
       "institution": "University of Texas at Arlington, Arlington, TX",
       "area": "University Studies (Emphasis: Information Systems)",
       "studyType": "B.S.",
-      "startDate": "2015-08-27",
-      "endDate": "2020-12-19",
+      "startDate": "2015-Aug-27",
+      "endDate": "2020-Dec-19",
       "gpa": "",
       "relevant_coursework": [
         "Advanced Web Development",
@@ -63,7 +63,7 @@
       "company": "Oracle",
       "website": "https://www.credly.com/badges/bb24d61c-4909-4eb8-8516-892b5e08ca3a",
       "position": "Oracle Certified Associate, Java SE 8 Programmer",
-      "startDate": "2021-08-16",
+      "startDate": "2021-Aug-16",
       "endDate": "",
       "summary": "",
       "highlights": []
@@ -133,8 +133,8 @@
       "company": "University of Texas at Arlington, Arlington, TX",
       "website": "",
       "position": "Graduate Teaching Assistant (GTA)",
-      "startDate": "2022-01-16",
-      "endDate": "2022-05-16",
+      "startDate": "2022-Jan-16",
+      "endDate": "2022-May-16",
       "summary": "Department of Information Systems & Operations Management",
       "highlights": [
         "Coordinated responsibilities with 2 professors for database classes.",
@@ -149,8 +149,8 @@
       "organization": "Kalpana Chawla (KC) Hall Council",
       "website": "",
       "position": "Vice President",
-      "startDate": "2018-09-01",
-      "endDate": "2019-05-10",
+      "startDate": "2018-Sep-01",
+      "endDate": "2019-May-10",
       "summary": "Carried out all duties of the Hall Council President in their absence",
       "highlights": [
         "Interacted with the community to actively collect feedback for the Hall Council",
@@ -161,8 +161,8 @@
       "organization": "Korean Martial Arts (KMA)",
       "website": "",
       "position": "Fourth Master Degree Black Belt",
-      "startDate": "2015-04-01",
-      "endDate": "2015-05-31",
+      "startDate": "2015-Apr-01",
+      "endDate": "2015-May-31",
       "summary": "Encouraged students to strengthen their physical and mental capabilities",
       "highlights": [
         "Guided class to follow martial arts curriculum",
