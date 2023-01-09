@@ -27,7 +27,7 @@ summary: The semester end group project for my Database class. The task is to un
 
   <center><figure>
     <img class="ui medium rounded image" src="../images/ERD_sample.png" style="vertical-align: middle;" float = "none">
-    <figcaption style="vertical-align: middle;"><br /> Fig. 2. ERD <br /></figcaption>
+    <figcaption style="vertical-align: middle;">Fig. 2. ERD <br /></figcaption>
   </figure></center>
   <span style="color: black">
     <br />From this project, I was given the opportunity to develop my management skills and coordinate with others to deliver the project ontime. In addition, I was able to employ the knowledge of writing SQL Query that I studied in-class throughout the semester to develop the Tables and their columns, insert the row data, and configure constraints that would help maintain consistency across our database.  <br /> <br /> <br /> <br /> <br /> <br /> <br /></span>
