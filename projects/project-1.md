@@ -25,10 +25,10 @@ summary: The semester end group project for my Database class. The task is to un
   <span style="color: black">
     <br />I worked with everyone to discern which nouns from the provided prompt should be considered as Entities. This would identify what would be stored as tables and what their corresponding attributes or traits. Writing the SQL Queries to build the Database was one of the last parts. Our documented diagrams would facilitate group discussions on how we would proceed after finalizing our decisions. <br /><br /></span>
 
-  <figure align = "center">
-    <img class="ui medium right floated rounded image" src="../images/ERD_sample.png" />
-    <figcaption><br /> Fig. 2. ERD <br /></figcaption>
-  </figure>
+  <center><figure>
+    <img class="ui medium rounded image" src="../images/ERD_sample.png" style="vertical-align: middle;" float = "none">
+    <figcaption style="vertical-align: middle;"><br /> Fig. 2. ERD <br /></figcaption>
+  </figure></center>
   <span style="color: black">
     <br />From this project, I was given the opportunity to develop my management skills and coordinate with others to deliver the project ontime. In addition, I was able to employ the knowledge of writing SQL Query that I studied in-class throughout the semester to develop the Tables and their columns, insert the row data, and configure constraints that would help maintain consistency across our database.  <br /> <br /> <br /> <br /> <br /> <br /> <br /></span>
 </div>
