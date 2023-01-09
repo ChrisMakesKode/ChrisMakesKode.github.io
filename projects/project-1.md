@@ -13,7 +13,7 @@ labels:
   - ERD
 summary: The semester end group project for my Database class. The task is to understand the database logic for a furniture store processing and shipping orders to customers.
 ---
-<body style="background-color:rgba(238, 241, 255, 1); padding: 10px; border: 7px groove; border-color: lightblue; border-radius: 10px;">
+<div style="background-color:rgba(238, 241, 255, 1); padding: 10px; border: 7px groove; border-color: lightblue; border-radius: 10px;">
   <figure align = "center">
     <img class="ui medium right floated rounded image" src="../images/DD_Sample.png">
     <figcaption>Fig. 1. Sample of Data Dictionary <br /></figcaption>
@@ -31,4 +31,4 @@ summary: The semester end group project for my Database class. The task is to un
   </figure>
   <span style="color: black">
     <br />From this project, I was given the opportunity to develop my management skills and coordinate with others to deliver the project ontime. In addition, I was able to employ the knowledge of writing SQL Query that I studied in-class throughout the semester to develop the Tables and their columns, insert the row data, and configure constraints that would help maintain consistency across our database.  <br /> <br /> <br /> <br /> <br /> <br /> <br /></span>
-</body>
+</div>
