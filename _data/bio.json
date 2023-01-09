@@ -35,15 +35,15 @@
       "endDate": "2022-Dec-15",
       "gpa": "4.00",
       "relevant_coursework": [
-        "Applied Database Management",
-        "Principles of Datamining",
-        "Advanced Methods for Analytics"
-      ],
-      "ongoing_coursework": [
+        "Data Communication & Networking ",
         "Data Warehousing & Business Intelligence",
+        "Database Management",
+        "Management of Information Technology",
+        "Project Management",
         "System Analysis & Design",
-        "Data Science: A Programming Approach"
-      ]
+        "Web & Social Analytics"
+      ],
+      "ongoing_coursework": []
     },
     {
       "institution": "University of Texas at Arlington, Arlington, TX",
