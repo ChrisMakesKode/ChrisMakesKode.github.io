@@ -15,7 +15,7 @@ summary: The semester end group project for my Database class. The task is to un
 ---
 <div style="background-color:rgba(255, 0, 255, 1)">
   <img class="ui medium right floated rounded image" src="../images/DD_Sample.png">
-  <span style="background-color:rgba(255, 0, 255, 1); color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
+  <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
     In my first semester as a Grad student, everyone was assigned in groups of four to five to complete this project. We were provided a context prompt that involves a furniture store. The business would retain a database containing information on customers, products sold, shipping, employees, and delivery trucks. Before we could write any SQL Query, we had to understand the logical workflow in the furniture outlet's business process. We created various diagrams to document our studies. Some of them include Entity Relationship Diagrams (ERD) and Data Dictionary.</span>
 
   <span style="color: white; text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;">
