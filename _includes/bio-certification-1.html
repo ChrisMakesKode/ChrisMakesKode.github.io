@@ -27,7 +27,7 @@
       <div class="four wide right aligned column no-bottom">
         <p class="ui no-bottom"><b>
           {% if entry.startDate %}
-          Aug {{ entry.startDate | slice: 0,4 }}
+          {{ entry.startDate | slice: 5 }}{{ entry.startDate | slice: 6 }}{{ entry.startDate | slice: 7 }} {{ entry.startDate | slice: 0,4 }}
           {% endif %}
         </b></p>
       </div>
