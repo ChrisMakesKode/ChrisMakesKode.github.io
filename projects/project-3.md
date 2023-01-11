@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ERD_sample.png
+image: images/CK_GoogleMerchLogo.jpeg
 title: Google Store E-Commerce Analysis
 permalink: projects/online-furniture-ordering
 # All dates must be YYYY-MM-DD format!
