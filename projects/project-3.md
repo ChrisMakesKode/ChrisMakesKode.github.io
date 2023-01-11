@@ -20,10 +20,10 @@ summary: Analyzed international web traffic patterns of Google’s online store.
   </figure></center>
   
   <span style="color: black">
-    <br />In my first semester as a Grad student, everyone was assigned in groups of four to five to complete this project. We were provided a context prompt that involves a furniture store. The business would retain a database containing information on customers, products sold, shipping, employees, and delivery trucks. Before we could write any SQL Query, we had to understand the logical workflow in the furniture outlet's business process. We created various diagrams to document our studies. Some of them include Entity Relationship Diagrams (ERD) and Data Dictionary. <br /><br /></span>
+    <br />During Summer 2022, I was enrolled in the Web & Social Analytics class at University of Texas at Arlington. Everyone was assigned into groups of 3 to 5 members to apply class concepts to dataset samples found on Kaggle. For my group of three, we analyzed visitor data from Google's online merchandise store (https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview). The project's objective was to uncover business insight that would support data driven decisions for Google's business. <br /><br /></span>
 
   <span style="color: black">
-    <br />I worked with everyone to discern which nouns from the provided prompt should be considered as Entities. This would identify what would be stored as tables and what their corresponding attributes or traits. Writing the SQL Queries to build the Database was one of the last parts. Our documented diagrams would facilitate group discussions on how we would proceed after finalizing our decisions. <br /><br /></span>
+    <br />First, the data needed to be preprocessed or cleaned for efficient analysis. Our team had applied JSON on the 12 initial columns to extract a total of 55 variables. Not every variable was particularly valuable or had meaningful data, so we dropped some variables. Our analysis only covered 36 variables: 35 independent and 1 dependent. <br /><br /></span>
 
   <center><figure>
     <img class="ui medium rounded image" src="../images/ERD_sample.png" style="vertical-align: middle;" float = "none">
