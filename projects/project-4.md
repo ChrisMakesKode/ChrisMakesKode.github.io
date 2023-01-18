@@ -20,12 +20,25 @@ summary: Employed data science algorithms to recognize categories of clothing fr
   </figure></center>
   
   <span style="color: black">
-    <br />During Spring 2022, I took a course titled, "Data Science: A Programming Approach". I was already familiar with coding in Python, but I gained firsthand experience in employing that code for various machine learning algorithms. To challenge our knowledge, an individual project was assigned where I applied several supervised learning models torwards the MNIST Fashion Image dataset. The objective was to find the best predictive model that would accurately predict clothes based on their category. The entire project and its documented findings was carried out in Jupyter Notebook. <br /><br /></span>
+    <br />During Spring 2022, I took a course titled, "Data Science: A Programming Approach". I was already familiar with coding in Python, but I gained firsthand experience in employing that code for various machine learning algorithms. To challenge our knowledge, an individual project was assigned where I applied several supervised learning models torwards the MNIST Fashion Image dataset. The objective was to find the best predictive model that would accurately predict clothes based on their category. Once accomplished, I was expected to apply my selected best model with new out-of-sample data, or personal photos of my own clothes. The entire project and its documented findings was carried out in Jupyter Notebook. <br /><br /></span>
   
-  <a href="../images/CK Image Fashion Recognizer.pdf" download>The full report can be read here.Click to Download</a>
+  <a href="../images/CK Image Fashion Recognizer.pdf" download>A copy of my report can be downloaded and read here. Click here.</a>
 
   <span style="color: black">
-    <br />I worked with everyone to discern which nouns from the provided prompt should be considered as Entities. This would identify what would be stored as tables and what their corresponding attributes or traits. Writing the SQL Queries to build the Database was one of the last parts. Our documented diagrams would facilitate group discussions on how we would proceed after finalizing our decisions. <br /><br /></span>
+    <br />In determining the optimal model, 4 categories were considered in my analysis:<br />
+    - Wall (Clock) Time. The relative speed for a model to fit the data. <br />
+    - Accuracy. This indicates how proficient a predictive model accurately predicts the out-of-sample data.<br />
+    - Precision. Ratio of the true positives to the sum of true and false positives. <br />
+    - Recall. Ratio of the true positives to the sum of the true positives and the false negatives. <br />
+    <br />
+    
+    <br />Five models, or algorithms were considered:<br />
+    - Linear Regression.<br />
+    - K-Nearest Neighbor (KNN).<br />
+    - Naive Bayes. <br />
+    - Decision Tree. <br />
+    - Random Forest. <br /><br />
+  </span>
 
   <center><figure>
     <img class="ui medium rounded image" src="../images/ERD_sample.png" style="vertical-align: middle;" float = "none">
