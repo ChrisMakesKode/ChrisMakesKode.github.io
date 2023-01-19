@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Proj4/mnistSample.png
 title: Image Recognition Fashion Images
-permalink: projects/online-furniture-ordering
+permalink: projects/image-recognition-fashion-images
 # All dates must be YYYY-MM-DD format!
 # Sentence: Bob joined this [club](URL to the club's site).
 date: 2022-03-30
