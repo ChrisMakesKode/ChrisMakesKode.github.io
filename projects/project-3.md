@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/CK_GoogleMerchLogo.jpeg
 title: Google Store E-Commerce Analysis
-permalink: projects/online-furniture-ordering
+permalink: projects/google-store-e-commerce-analysis
 # All dates must be YYYY-MM-DD format!
 # Sentence: Bob joined this [club](URL to the club's site).
 date: 2022-07-28
