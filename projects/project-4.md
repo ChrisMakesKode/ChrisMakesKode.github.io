@@ -20,9 +20,9 @@ summary: Employed data science algorithms to recognize categories of clothing fr
   </figure></center>
   
   <span style="color: black">
-    <br />During Spring 2022, I took a course titled, "Data Science: A Programming Approach". I was already familiar with coding in Python, but I gained firsthand experience in employing that code for various machine learning algorithms. To challenge our knowledge, an individual project was assigned where I applied several supervised learning models torwards the MNIST Fashion Image dataset. The objective was to find the best predictive model that would accurately predict clothes based on their category. Once accomplished, I was expected to apply my selected best model with new out-of-sample data, or personal photos of my own clothes. The entire project and its documented findings was carried out in Jupyter Notebook. <br /><br /></span>
+    <br />During Spring 2022, I took a course titled, "Data Science: A Programming Approach" where I gained firsthand experience in employing my coding skills for various machine learning algorithms. To challenge our knowledge, an individual project was assigned where I applied several supervised learning models torwards the MNIST Fashion Image dataset. The objective was to find the best predictive model that would accurately predict clothes based on their category. Once accomplished, I was expected to apply my selected best model with new out-of-sample data, or personal photos of my own clothes. The entire project and its documented findings was carried out in Jupyter Notebook. <br /><br /></span>
   
-  <a href="../images/CK Image Fashion Recognizer.pdf" download>A copy of my report can be downloaded and read here. Click here.</a>
+  <a href="../images/CK Image Fashion Recognizer.pdf" download>A copy of my report can be downloaded and read. Click here.</a>
 
   <span style="color: black">
     <br />In determining the optimal model, 4 categories were considered in my analysis:<br />
