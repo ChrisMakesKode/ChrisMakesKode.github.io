@@ -20,7 +20,7 @@ summary: Analyzed international web traffic patterns of Google’s online store.
   </figure></center>
   
   <span style="color: black">
-    <br />During Summer 2022, I was enrolled in the Web & Social Analytics class at University of Texas at Arlington. Everyone was assigned into groups of 3 to 5 members to apply class concepts to dataset samples found on Kaggle. For my group of three, we analyzed visitor data from Google's online merchandise store (https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview). The project's objective was to uncover business insight that would support data driven decisions for Google's business. <br /><br /></span>
+    <br />During Summer 2022, I was enrolled in the Web & Social Analytics class at University of Texas at Arlington. As a group of three, we analyzed visitor data from Google's online merchandise store for our major term project (https://www.kaggle.com/competitions/ga-customer-revenue-prediction/overview). Together, we utilized data science techniques to recommend business insight that would support data driven decisions for Google's business. <br /><br /></span>
 
   <span style="color: black">
     <br />First, the data needed to be preprocessed or cleaned for efficient analysis. Our team had applied JSON on the 12 initial columns to extract a total of 55 variables. Not every variable was particularly valuable or had meaningful data, so we dropped some variables. Our analysis only covered 36 variables: 35 independent and 1 dependent. <br /><br /></span>
