@@ -20,13 +20,13 @@ summary: A personal project of mine where I created an interactive application t
     <figcaption style="vertical-align: middle;">Fig. 1. Screenshot of the encryption application's window <br /></figcaption>
   </figure></center>
   <span style="color: black">
-    This was one of my first at-home projects after completing my undergrad. A Caesar Cipher is a simple security tool that is used to protect password and sensitive information. It encrypts the input contents by encrypting, or changing its values by a set amount based on UNICODE.</span>
+    <br /><br />This was one of my first at-home projects after completing my undergrad. A Caesar Cipher is a simple security tool that is used to protect password and sensitive information. It encrypts the input contents by encrypting, or changing its values by a set amount based on UNICODE.<br /><br /></span>
 
   <span style="color: black;">
-    In this project, I incorporated my knowledge of JavaFX to provide an interface for efficient usage. In addition, I have created several encryption options that encodes input containing uppercase and lowercase characters differently. </span>
+    In this project, I incorporated my knowledge of JavaFX to provide an interface for efficient usage. In addition, I have created several encryption options that encodes input containing uppercase and lowercase characters differently. <br /><br /></span>
 
   <span style="color: black">
-    I learned JavaFX for a few projects in my Advanced Applications Development class during Fall 2020. Through these assignments, I learned how to design an interface that responds conveniently to user's and how to implement it with my written programs in Java. </span>
+    I learned JavaFX for a few projects in my Advanced Applications Development class during Fall 2020. Through these assignments, I learned how to design an interface that responds conveniently to user's and how to implement it with my written programs in Java. <br /><br /></span>
 
   <span style="color: black"> Source: <a href="https://github.com/"><i class="large github icon"></i>ChrisMakesKode</a></span>
 </div>
