@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ERD_sample.png
+image: images/Proj4/task2sample.png
 title: Image Recognition Fashion Images
 permalink: projects/online-furniture-ordering
 # All dates must be YYYY-MM-DD format!
