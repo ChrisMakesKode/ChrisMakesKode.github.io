@@ -16,7 +16,7 @@ summary: Employed data science algorithms to recognize categories of clothing fr
 <div style="background-color:rgba(238, 241, 255, 1); padding: 10px; border: 7px groove; border-color: lightblue; border-radius: 10px;">
   <center><figure>
     <img class="ui medium rounded image" src="../images/Proj4/mnistSample.png" style="vertical-align: middle;" float = "none">
-    <figcaption style="vertical-align: middle;">Fig. 1. Sample of Data Dictionary <br /></figcaption>
+    <figcaption style="vertical-align: middle;">Fig. 1. An image from the MNIST Fashion dataset <br /></figcaption>
   </figure></center>
   
   <span style="color: black">
@@ -37,7 +37,7 @@ summary: Employed data science algorithms to recognize categories of clothing fr
     - Naive Bayes. <br />
     - Decision Tree. <br />
     - Random Forest. <br /><br />
-    <br />Ultimately, I selected Decision Trees as my best model for its favorable overall efficiency and simplicity. <br />
+    <br />Resultingly, I selected Decision Trees as my best model for its favorable overall efficiency and simplicity. <br />
   </span>
 
   <center><figure>
@@ -45,5 +45,6 @@ summary: Employed data science algorithms to recognize categories of clothing fr
     <figcaption style="vertical-align: middle;">Fig. 2. Five Images of New Testing Data <br /></figcaption>
   </figure></center>
   <span style="color: black">
-    <br />With my selected model, it was time to apply it towards new data outside of the MNIST fashion dataset. I sampled some articles of clothes that I owned -- carefully positioning them to closely format them towards the other images in the MNIST dataset. <br /> <br /> <br /> <br /> <br /> <br /> <br /></span>
+    <br />With my selected model, it was time to apply it towards new data outside of the MNIST fashion dataset. I took pictures of several articles of clothes that I owned -- carefully positioning them before formatting them in grayscale to resemble the formatted images from the MNIST dataset. <br /><br />
+    <br />My best out-of-sample accuracy score was documented at 40%. <br /> <br /> <br /> <br /></span>
 </div>
