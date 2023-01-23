@@ -19,13 +19,22 @@ summary: Directed a hypothetical delivery service via mobile app for class group
   
   <span style="color: black">
     <br />For a Project Management course in Fall 2022, I proficiently demonstrated Project Management concepts for a <i>hypothetical</i> delivery service titled, <i><b>At Your Doorstep</b></i>. Had the delivery service aspect were actually real, <i><b>At Your Doorstep</b></i> would offer businesses to save overhead travel costs and efficient transportation services of goods from their app. For instance, say an executive has a major meeting in 30 minutes, but they realized they had forgotten an important printed report back at their residence. With insufficient time to make a round trip, the executive uses this service to request someone to enter their premises and transport their desired deliverable to their current office.  <br /><br />
-    Throughout the semester, the project was presented in numerous audits. Various diagrams were constructed to illustrate project management constructs. Some are visible below.<br /></span>
+    Throughout the semester, the project was presented in numerous presentations which were treated like audits by the professor. Various diagrams were constructed to illustrate project management constructs. Some are visible below.<br /></span>
+  
   <center><figure>
     <img class="ui medium rounded image" src="../images/Proj5/ApportionWBS.png" style="vertical-align: middle;" float = "none">
     <figcaption style="vertical-align: middle;">Fig. 2. Apportion Method and Work Breakdown Structure (WBS) <br /></figcaption>
   </figure></center>
     <span style="color: black">
-    <br />From a management perspective, our hypothetical was assumed to possess sufficient expertise with the necessary geotracking technologies required for the delivery service. It was expected that these technologies would run high operating expenses, especially with continuous usage. For these reasons, it felt appropriate to pursue the apportion method with WBS. <br />
+    <br />From a management perspective, our hypothetical was assumed to possess sufficient expertise with the necessary geotracking technologies required for the delivery service. It was expected that these technologies would run high operating expenses, especially with continuous usage. For these reasons, it felt appropriate to pursue the apportion method with WBS.<br />
+  </span>
+  
+  <center><figure>
+    <img class="ui medium rounded image" src="../images/Proj5/PN.png" style="vertical-align: middle;" float = "none">
+    <figcaption style="vertical-align: middle;">Fig. 3. Project Network <br /></figcaption>
+  </figure></center>
+    <span style="color: black">
+    <br />From early on, it was simulated that the project would take around 3 to 4 months to deploy. Fig. 3. displays a project network diagram that illustrated the flow of subsequent activities that would lead towards the project's completion. In constructing these management tools, I strengthened my problem solving activities in considering how each necessary activity should be completed to fit the desired deadline.<br />
   </span>
 
   <center><figure>
