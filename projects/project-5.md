@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Proj4/mnistSample.png
+image: images/Proj5/AYD_LogoWhite.png
 title: Group Project Management (At Your Doorstep)
 permalink: projects/at-your-doorstep
 # All dates must be YYYY-MM-DD format!
@@ -13,16 +13,13 @@ summary: Directed a hypothetical delivery service via mobile app for class group
 ---
 <div style="background-color:rgba(238, 241, 255, 1); padding: 10px; border: 7px groove; border-color: lightblue; border-radius: 10px;">
   <center><figure>
-    <img class="ui medium rounded image" src="../images/Proj4/mnistSample.png" style="vertical-align: middle;" float = "none">
+    <img class="ui medium rounded image" src="../images/Proj5/app_and_phone.png" style="vertical-align: middle;" float = "none">
     <figcaption style="vertical-align: middle;">Fig. 1. An image from the MNIST Fashion dataset <br /></figcaption>
   </figure></center>
   
   <span style="color: black">
-    <br />I was enrolled in a Project Management course for Fall 2022. For a major term group project, our objective was to demonstrate applicable project management concepts for a hypothetical project.<br /><br /></span>
-  
-  <a href="../images/CK Image Fashion Recognizer.pdf" download>A copy of my report can be downloaded and read. Click here.</a>
-
-  <span style="color: black">
+    <br />For a Project Management course in Fall 2022, I proficiently demonstrated Project Management concepts for a <i>hypothetical</i> delivery service titled, <i><b>At Your Doorstep</b></i>. Had the delivery service aspect were actually real, <i><b>At Your Doorstep</b></i> would be offered for business employees to save overhead travel costs and efficient transportation services of goods from their app. For instance, say an executive has a major meeting in 30 minutes, but they realized they had forgotten an important printed report back at their residence. With insufficient time to make a round trip, the executive uses this service to request someone to enter their premises and transport their desired deliverable to their current office.  <br /><br /></span>
+    <span style="color: black">
     <br />In determining the optimal model, 4 categories were considered in my analysis:<br />
     - Wall (Clock) Time. The relative speed for a model to fit the data. <br />
     - Accuracy. This indicates how proficient a predictive model accurately predicts the out-of-sample data.<br />
