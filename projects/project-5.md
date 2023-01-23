@@ -34,14 +34,13 @@ summary: Directed a hypothetical delivery service via mobile app for class group
     <figcaption style="vertical-align: middle;">Fig. 3. Project Network <br /></figcaption>
   </figure></center>
     <span style="color: black">
-    <br />From early on, it was simulated that the project would take around 3 to 4 months to deploy. Fig. 3. displays a project network diagram that illustrated the flow of subsequent activities that would lead towards the project's completion. In constructing these management tools, I strengthened my problem solving activities in considering how each necessary activity should be completed to fit the desired deadline.<br />
+    <br />From early on, it was simulated that the project would be deployed in mid-December. Fig. 3. displays a project network diagram that illustrated the flow of subsequent activities that would lead towards the project's completion. In constructing these management tools, I strengthened my problem solving activities in considering how each necessary activity should be completed to fit the desired deadline.<br />
   </span>
 
   <center><figure>
-    <img class="ui medium rounded image" src="../images/Proj4/task2sample.png" style="vertical-align: middle;" float = "none">
-    <figcaption style="vertical-align: middle;">Fig. 2. Five Images of New Testing Data <br /></figcaption>
+    <img class="ui medium rounded image" src="../images/Proj4/GanttChart.png" style="vertical-align: middle;" float = "none">
+    <figcaption style="vertical-align: middle;">Fig. 4. Gantt Chart <br /></figcaption>
   </figure></center>
   <span style="color: black">
-    <br />With my selected model, it was time to apply it towards new data outside of the MNIST fashion dataset. I took pictures of several articles of clothes that I owned -- carefully positioning them before formatting them in grayscale to resemble the formatted images from the MNIST dataset. <br /><br />
-    <br />My best out-of-sample accuracy score was documented at 40%. <br /> <br /> <br /> <br /></span>
+    <br />Given the sensitive nature of this project, the integrity and confidentiality of sensitive deliverables were considered. However, there was an issue with upper management in mid-November. They were reportedly not satisfied with the delivery software's current build at the time, and requested for a delay of at least four weeks for quality control -- effectively pushing the deployment date into 2023. However, our team argued that the marketing team's plans of marketing the delivery service already advertised the December release date. After much back-and-forth, our team was able to convince upper management that our prorgrammers were more than confident they could bring the quality of the project to speed.<br /></span>
 </div>
