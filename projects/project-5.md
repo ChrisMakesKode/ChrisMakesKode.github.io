@@ -18,15 +18,15 @@ summary: Directed a hypothetical delivery service via mobile app for class group
   </figure></center>
   
   <span style="color: black">
-    <br />For a Project Management course in Fall 2022, I proficiently demonstrated Project Management concepts for a <i>hypothetical</i> delivery service titled, <i><b>At Your Doorstep</b></i>. Had the delivery service aspect were actually real, <i><b>At Your Doorstep</b></i> would offer businesses to save overhead travel costs and efficient transportation services of goods from their app. For instance, say an executive has a major meeting in 30 minutes, but they realized they had forgotten an important printed report back at their residence. With insufficient time to make a round trip, the executive uses this service to request someone to enter their premises and transport their desired deliverable to their current office.  <br /><br />
-    Throughout the semester, the project was presented in numerous presentations which were treated like audits by the professor. Various diagrams were constructed to illustrate project management constructs. Some are visible below.<br /></span>
+    <br />For a Project Management course in Fall 2022, I proficiently demonstrated Project Management concepts for a <i>hypothetical*</i> delivery service titled, <i><b>At Your Doorstep (AYD)</b></i>. Working on this project with 2 other people, it was my first exposure to project management software tools. Through this great opportunity, I was able to exercise my creativity in creating the necessary project diagrams that helped convey the needed information in the numerous presentations hosted by our professor.  <br /><br />
+    *Had this delivery service aspect were actually real, <i><b>At Your Doorstep</b></i> would offer businesses to save overhead travel costs and efficient transportation services of goods from their app. For instance, say an executive has a major meeting in 30 minutes, but they realized they had forgotten an important printed report back at their residence. With insufficient time to make a round trip, the executive uses this service to request someone to enter their premises and transport their desired deliverable to their current office. <br /></span>
   
   <center><figure>
     <img class="ui medium rounded image" src="../images/Proj5/ApportionWBS.png" style="vertical-align: middle;" float = "none">
     <figcaption style="vertical-align: middle;">Fig. 2. Apportion Method and Work Breakdown Structure (WBS) <br /></figcaption>
   </figure></center>
     <span style="color: black">
-    <br />From a management perspective, our hypothetical was assumed to possess sufficient expertise with the necessary geotracking technologies required for the delivery service. It was expected that these technologies would run high operating expenses, especially with continuous usage. For these reasons, it felt appropriate to pursue the apportion method with WBS.<br />
+    <br />In Fig. 2 above, costs were broken down through the apportion method. From a management perspective, I pushed for the idea that our hypothetical personnel was assumed to possess sufficient expertise with the necessary geotracking technologies required for the delivery service. It was expected that these technologies would run high operating expenses, especially with continuous usage. For these reasons, it  appropriate to pursue the apportion method with WBS.<br />
   </span>
   
   <center><figure>
