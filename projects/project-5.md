@@ -18,7 +18,7 @@ summary: Directed a hypothetical delivery service via mobile app for class group
   </figure></center>
   
   <span style="color: black">
-    <br />For a Project Management course in Fall 2022, I proficiently demonstrated Project Management concepts for a <i>hypothetical*</i> delivery service titled, <i><b>At Your Doorstep (AYD)</b></i>. Working on this project with 2 other people, it was my first exposure to project management software tools. Through this great opportunity, I was able to exercise my creativity in creating the necessary project diagrams that helped convey the needed information in the numerous presentations hosted by our professor.  <br /><br />
+    <br />For a Project Management course in Fall 2022, I proficiently demonstrated Project Management concepts for a <i>hypothetical*</i> delivery service titled, <i><b>At Your Doorstep (AYD)</b></i>. Working on this project with 2 other people, it was my first exposure to project management software tools. Through this great opportunity, I exercised my creativity in creating the necessary project diagrams that helped successfully convey the necessary information in our numerous presentations. The course professor praised me for bringing a creative frame of mind and ingenuity towards the project success.  <br /><br />
     *Had this delivery service aspect were actually real, <i><b>At Your Doorstep</b></i> would offer businesses to save overhead travel costs and efficient transportation services of goods from their app. For instance, say an executive has a major meeting in 30 minutes, but they realized they had forgotten an important printed report back at their residence. With insufficient time to make a round trip, the executive uses this service to request someone to enter their premises and transport their desired deliverable to their current office. <br /></span>
   
   <center><figure>
@@ -34,7 +34,7 @@ summary: Directed a hypothetical delivery service via mobile app for class group
     <figcaption style="vertical-align: middle;">Fig. 3. Project Network <br /></figcaption>
   </figure></center>
     <span style="color: black">
-    <br />From early on, it was simulated that the project would be deployed in mid-December. Fig. 3. displays a project network diagram that illustrated the flow of subsequent activities that would lead towards the project's completion. In constructing these management tools, I strengthened my problem solving activities in considering how each necessary activity should be completed to fit the desired deadline.<br />
+    <br />The project's deployment date was established for mid-December. Fig. 3. contains a project network diagram that illustrated the flow of subsequent activities that would lead towards the project's completion. In constructing these management tools, I strengthened my problem solving activities in considering how each necessary activity should be completed to fit the desired deadline.<br />
   </span>
 
   <center><figure>
