@@ -38,7 +38,7 @@ summary: Directed a hypothetical delivery service via mobile app for class group
   </span>
 
   <center><figure>
-    <img class="ui medium rounded image" src="../images/Proj4/GanttChart.png" style="vertical-align: middle;" float = "none">
+    <img class="ui medium rounded image" src="../images/Proj5/GanttChart.png" style="vertical-align: middle;" float = "none">
     <figcaption style="vertical-align: middle;">Fig. 4. Gantt Chart <br /></figcaption>
   </figure></center>
   <span style="color: black">
