@@ -115,7 +115,13 @@
   ],
   "interests": [
     {
-      "name": "Information Systems", "Cybersecurity", "Data Analytics"
+      "name": "Cybersecurity",
+      "keywords": [
+        "Cybersecurity Programming, Database, Data Science Analysis"
+      ]
+    },
+    {
+      "name": "Data Analytics",
       "keywords": [
         "Cybersecurity Programming, Database, Data Science Analysis"
       ]
