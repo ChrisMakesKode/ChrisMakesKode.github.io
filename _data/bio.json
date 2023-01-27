@@ -5,7 +5,7 @@
     "picture": "https://chrismakeskode.github.io/images/CK_GH2.jpg",
     "email": "christiankamarga@yahoo.com",
     "website": "https://chrismakeskode.github.io",
-    "summary": "I am a recent graduate with a Master of Science in Information Systems. My goal is to make a career in cybersecurity systems development or data analytics.",
+    "summary": "Self-driven postgraduate with group leading experience in information technology projects. Creativity and detail-oriented proven to foster groupwork prospects. Effective in communicating and conveying accurate information.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -85,7 +85,8 @@
       "name": "Data Analytics",
       "level": "",
       "keywords": [
-        "SAS"
+        "SAS",
+        "Jupyter Notebook"
       ]
     },
     {
@@ -130,6 +131,18 @@
       "name": "Graphical Design",
       "keywords": [
         "User Interface"
+      ]
+    },
+    {
+      "name": "Information Systems",
+      "keywords": [
+        "Cybersecurity Programming, Database, Data Science Analysis"
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Cybersecurity Programming, Database, Data Science Analysis"
       ]
     }
   ],
