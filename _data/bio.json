@@ -148,17 +148,29 @@
   ],
   "work": [
     {
+      "company": "SecureTrust Cyber",
+      "website": "https://securetrust.io/about-us/",
+      "position": "AI Prompt Engineer Intern",
+      "startDate": "2023-Aug-1",
+      "endDate": "2023-Dec-31",
+      "summary": "Cybersecurity",
+      "highlights": [
+        "Collaborated tasks with team members in weekly Scrum meetings and innovated work processes of securely testing code by recommending best programming practices in compliance with regulations and security policies.",
+        "Utilized Streamlit API calls for monitoring and detecting potential risks and threats to organization’s end devices.",
+        "Assisted integration of new personnel in remotely setting up client-side Anaconda environments as needed."
+      ]
+    },
+    {
       "company": "University of Texas at Arlington, Arlington, TX",
-      "website": "",
+      "website": "https://www.uta.edu/academics/schools-colleges/business/departments/information-systems-and-operations-management",
       "position": "Graduate Teaching Assistant (GTA)",
       "startDate": "2022-Jan-16",
       "endDate": "2022-May-16",
       "summary": "Department of Information Systems & Operations Management",
       "highlights": [
-        "Coordinated responsibilities with 2 professors for database classes.",
-        "Advised 60+ students weekly with database projects and technical support for Oracle and SQL.",
-        "Praised by superiors for improving efficiency with classroom procedures.",
-        "Managed distribution and proctoring of exams.",
+        "Coordinated responsibilities for 2 database classes and improved performance towards fulfilling security procedures.",
+        "Created detailed instructions for database installation with troubleshooting steps and mitigated overhead and delays.",
+        "Advised 60+ students weekly in compliance with security protocols and policies with experience in Oracle and SQL."
       ]
     }
   ],
@@ -183,8 +195,8 @@
       "endDate": "2015-May-31",
       "summary": "Encouraged students to strengthen their physical and mental capabilities",
       "highlights": [
-        "Guided class to follow martial arts curriculum",
-        "Trained students in technique and form for promotion exams"
+        "Guided class to follow martial arts curriculum.",
+        "Trained students in technique and form for promotion exams."
       ]
     }
   ],
