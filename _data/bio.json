@@ -175,6 +175,12 @@
       ]
     },
     {
+      "name": "Networking",
+      "keywords": [
+        "TCP / IP Networking, Routing Protocols, OSI Layers"
+      ]
+    },
+    {
       "name": "Programming",
       "keywords": [
         "Cybersecurity Programming, Database, Data Science Analysis"
